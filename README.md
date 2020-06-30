@@ -14,6 +14,6 @@ in nature; in other words, if it fits into one of two categories (such as “yes
 In this repository the data I used is from Kaggle that can be downloaded in this link https://www.kaggle.com/rakeshrau/social-network-ads
 This data consist of five column, those are : User ID, Gender, Age, Estimated Salary and Purchased (0 for no, 1 for yes).
 
-For data preparation we change the class of Gender (Male is 1, Female is 0) and Purchased column should be converted to Factor class.
+For data preparation we change the class of Gender (Male to be 1, Female to be 0) and Purchased column should be converted to Factor class.
 By using logistic analysis we could also find the probability of each two outcome, and can adjust it based on our consideration model. 
 
