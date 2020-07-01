@@ -1,6 +1,6 @@
 ## Logistic-Regression-at-Two-Levels
 
-Logistic regression is a classification algorithm. It is used to predict a binary (or multiple) outcome 
+Logistic regression is a classification algorithm. It is used to predict a binary (or can also multiple) outcome 
 based on a set of independent variables. A binary outcome is one where there are only two possible scenarios—either 
 the event happens (1) or it does not happen (0). Independent variables are those variables or factors which may 
 influence the outcome (or dependent variable). For further information we can also use Logistic Regression for more than
